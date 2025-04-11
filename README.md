@@ -34,6 +34,10 @@ Todos os projetos do LucasFII Research estão hospedados no GitHub, distribuído
   - Web: https://github.com/casadeanalises/lucasfiiresearch-casadeanalises
   - Documentação: https://github.com/casadeanalises/lucasfiiresearch-casadeanalises-docs
 
+# GitBook.io a documentação do projeto
+
+https://lucasfii-research.gitbook.io/docs-lucasfiiresearch
+
 
 - ## 📝 Licença
 
