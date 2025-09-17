@@ -14,7 +14,7 @@ Atualmente, o LucasFII Research possui os seguintes sistemas:
 - Ambientes:
   - Development: https://dev-lucasfiiresearch-casadeanalises.vercel.app
   - Staging: https://staging-lucasfiiresearch-casadeanalises.vercel.app
-  - Main/Prod: www.nettstudios.com.br
+  - Main/Prod: https://www.lucasfiiresearch.com.br
 
 # Ambientes
 
