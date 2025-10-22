@@ -14,6 +14,7 @@ Atualmente, o LucasFII Research possui os seguintes sistemas:
 - Ambientes:
   - Development: https://dev-lucasfiiresearch-casadeanalises.vercel.app
   - Staging: https://staging-lucasfiiresearch-casadeanalises.vercel.app
+  - Preprod: https://www.lucasfiiresearch.dev.br
   - Main/Prod: https://www.lucasfiiresearch.com.br
 
 # Ambientes
@@ -36,7 +37,7 @@ Todos os projetos do LucasFII Research estão hospedados no GitHub, distribuído
 
 # GitBook.io a documentação do projeto
 
-https://lucasfii-research.gitbook.io/docs-lucasfiiresearch
+https://lucasfii-research.gitbook.io/docs-lucasfiiresearch/
 
 
 - ## 📝 Licença
